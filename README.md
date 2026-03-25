@@ -19,9 +19,13 @@
 
 Founder of **[WestStack](https://weststack.ai)** — an agentic AI and software engineering company specializing in agent-driven development and intelligent, cloud-native solutions for wealth managers and family offices.
 
-## What I'm Building
+## Currently Working On
 
-**[Aurum](https://weststack.ai)** — an AI-powered family office platform. Combining agentic engineering with deep domain expertise to modernize how wealth managers and family offices operate.
+**[Aurum](https://github.com/adamdaum/aurum)** — AI-powered family office platform combining agentic engineering with deep domain expertise to modernize how wealth managers and family offices operate *(coming soon)*
+
+**[Insight Studio](https://github.com/weststack-io/insight-studio)** — AI-powered personalized briefings & education hub for wealth management firms
+
+**[Azure Bicep Templates](https://github.com/weststack-io/azure-bicep-templates)** — A collection of production-ready Bicep templates for deploying Azure resources, starting with Function Apps on isolated App Service Plans
 
 ## GitHub Activity
 
