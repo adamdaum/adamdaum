@@ -25,7 +25,7 @@ Founder of **[WestStack](https://weststack.ai)** — an agentic AI and software 
 
 **[Insight Studio](https://github.com/weststack-io/insight-studio)** — AI-powered personalized briefings & education hub for wealth management firms
 
-**[Azure Bicep Templates](https://github.com/weststack-io/azure-bicep-templates)** — A collection of production-ready Bicep templates for deploying Azure resources, starting with Function Apps on isolated App Service Plans
+**[Atlas](https://github.com/weststack-io/atlas)** — A collection of production-ready Bicep templates for deploying Azure resources, starting with Function Apps on isolated App Service Plans
 
 ## GitHub Activity
 
