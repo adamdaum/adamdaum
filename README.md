@@ -21,7 +21,7 @@ Founder of **[WestStack](https://weststack.ai)** — an agentic AI and software 
 
 ## Currently Working On
 
-**[Aurum](https://github.com/adamdaum/aurum)** — AI-powered family office platform combining agentic engineering with deep domain expertise to modernize how wealth managers and family offices operate *(coming soon)*
+**[Aurum](https://github.com/adamdaum/aurum)** — AI-powered family office platform combining agentic engineering with deep domain expertise to modernize how wealth managers and family offices operate
 
 **[Insight Studio](https://github.com/weststack-io/insight-studio)** — AI-powered personalized briefings & education hub for wealth management firms
 
