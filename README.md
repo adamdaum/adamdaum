@@ -14,6 +14,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Bicep](https://img.shields.io/badge/-Bicep-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ---
 
