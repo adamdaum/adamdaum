@@ -36,7 +36,7 @@ Founder of **[WestStack](https://weststack.ai)** — an agentic AI and software 
 
 [![Blog](https://img.shields.io/badge/-adamdaum.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://adamdaum.com/blog)
 [![WestStack Blog](https://img.shields.io/badge/-WestStack_Blog-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://weststack.ai/blog)
-[![Twitter](https://img.shields.io/badge/-@westsideacd-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/westsideacd)
+[![Twitter](https://img.shields.io/badge/-@adamweststack-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adamweststack)
 [![LinkedIn](https://img.shields.io/badge/-Adam_Daum-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamdaum)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adamdaum)
 
