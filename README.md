@@ -28,6 +28,8 @@ Founder of **[WestStack](https://weststack.ai)** — an agentic AI and software 
 
 **[Atlas](https://github.com/weststack-io/atlas)** — A collection of production-ready Bicep templates for deploying Azure resources, starting with Function Apps on isolated App Service Plans
 
+**[onenote-md](https://github.com/adamdaum/onenote-md)** — TypeScript CLI that turns OneNote notebooks into clean Markdown for AI agents and local-first memory systems
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adamdaum)
