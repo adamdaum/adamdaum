@@ -30,6 +30,8 @@ Founder of **[WestStack](https://weststack.ai)** — an agentic AI and software 
 
 **[onenote-md](https://github.com/adamdaum/onenote-md)** — TypeScript CLI that turns OneNote notebooks into clean Markdown for AI agents and local-first memory systems
 
+**[create-ralph-loop](https://github.com/weststack-io/create-ralph-loop)** — Scaffold a Ralph agentic automation loop for AI-driven iterative development
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/adamdaum)
